@@ -1,0 +1,241 @@
+{
+ "format": 1,
+ "packs": {
+  "names": {
+   "enabled": true,
+   "version": "2026-11-17",
+   "url": "names/names.json",
+   "size": 918599,
+   "clubs": 703,
+   "players": 19421
+  },
+  "emblems": {
+   "enabled": true,
+   "version": "2026-11-04",
+   "count": 742,
+   "size": 37400141,
+   "parts": [
+    {
+     "url": "emblems/00.zip",
+     "size": 1100816,
+     "count": 20
+    },
+    {
+     "url": "emblems/01.zip",
+     "size": 1161127,
+     "count": 21
+    },
+    {
+     "url": "emblems/02.zip",
+     "size": 993358,
+     "count": 20
+    },
+    {
+     "url": "emblems/03.zip",
+     "size": 754031,
+     "count": 20
+    },
+    {
+     "url": "emblems/04.zip",
+     "size": 714628,
+     "count": 18
+    },
+    {
+     "url": "emblems/05.zip",
+     "size": 896731,
+     "count": 18
+    },
+    {
+     "url": "emblems/06.zip",
+     "size": 1022364,
+     "count": 18
+    },
+    {
+     "url": "emblems/07.zip",
+     "size": 805377,
+     "count": 18
+    },
+    {
+     "url": "emblems/08.zip",
+     "size": 959951,
+     "count": 18
+    },
+    {
+     "url": "emblems/09.zip",
+     "size": 715824,
+     "count": 16
+    },
+    {
+     "url": "emblems/10.zip",
+     "size": 905262,
+     "count": 18
+    },
+    {
+     "url": "emblems/11.zip",
+     "size": 852260,
+     "count": 12
+    },
+    {
+     "url": "emblems/12.zip",
+     "size": 741973,
+     "count": 14
+    },
+    {
+     "url": "emblems/13.zip",
+     "size": 565340,
+     "count": 12
+    },
+    {
+     "url": "emblems/14.zip",
+     "size": 704228,
+     "count": 12
+    },
+    {
+     "url": "emblems/15.zip",
+     "size": 595247,
+     "count": 10
+    },
+    {
+     "url": "emblems/16.zip",
+     "size": 1070883,
+     "count": 18
+    },
+    {
+     "url": "emblems/17.zip",
+     "size": 915147,
+     "count": 16
+    },
+    {
+     "url": "emblems/18.zip",
+     "size": 966204,
+     "count": 20
+    },
+    {
+     "url": "emblems/19.zip",
+     "size": 1079088,
+     "count": 30
+    },
+    {
+     "url": "emblems/20.zip",
+     "size": 801148,
+     "count": 16
+    },
+    {
+     "url": "emblems/21.zip",
+     "size": 562676,
+     "count": 12
+    },
+    {
+     "url": "emblems/22.zip",
+     "size": 854822,
+     "count": 16
+    },
+    {
+     "url": "emblems/23.zip",
+     "size": 858092,
+     "count": 16
+    },
+    {
+     "url": "emblems/24.zip",
+     "size": 1458097,
+     "count": 30
+    },
+    {
+     "url": "emblems/25.zip",
+     "size": 866739,
+     "count": 18
+    },
+    {
+     "url": "emblems/26.zip",
+     "size": 1139427,
+     "count": 20
+    },
+    {
+     "url": "emblems/27.zip",
+     "size": 637745,
+     "count": 12
+    },
+    {
+     "url": "emblems/28.zip",
+     "size": 624478,
+     "count": 15
+    },
+    {
+     "url": "emblems/29.zip",
+     "size": 587721,
+     "count": 12
+    },
+    {
+     "url": "emblems/30.zip",
+     "size": 995782,
+     "count": 22
+    },
+    {
+     "url": "emblems/31.zip",
+     "size": 935419,
+     "count": 20
+    },
+    {
+     "url": "emblems/32.zip",
+     "size": 895560,
+     "count": 18
+    },
+    {
+     "url": "emblems/33.zip",
+     "size": 795992,
+     "count": 18
+    },
+    {
+     "url": "emblems/34.zip",
+     "size": 760122,
+     "count": 14
+    },
+    {
+     "url": "emblems/35.zip",
+     "size": 1096226,
+     "count": 16
+    },
+    {
+     "url": "emblems/36.zip",
+     "size": 675895,
+     "count": 11
+    },
+    {
+     "url": "emblems/37.zip",
+     "size": 902914,
+     "count": 20
+    },
+    {
+     "url": "emblems/38.zip",
+     "size": 613015,
+     "count": 16
+    },
+    {
+     "url": "emblems/39.zip",
+     "size": 625949,
+     "count": 16
+    },
+    {
+     "url": "emblems/40.zip",
+     "size": 718451,
+     "count": 15
+    },
+    {
+     "url": "emblems/41.zip",
+     "size": 964608,
+     "count": 16
+    },
+    {
+     "url": "emblems/42.zip",
+     "size": 656020,
+     "count": 12
+    },
+    {
+     "url": "emblems/43.zip",
+     "size": 853404,
+     "count": 12
+    }
+   ]
+  }
+ }
+}
