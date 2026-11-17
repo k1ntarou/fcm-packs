@@ -11,9 +11,9 @@
   },
   "emblems": {
    "enabled": true,
-   "version": "2026-11-17",
-   "count": 799,
-   "size": 40113754,
+   "version": "2026-11-17.2",
+   "count": 800,
+   "size": 40175365,
    "parts": [
     {
      "url": "emblems/00.zip",
@@ -237,8 +237,8 @@
     },
     {
      "url": "emblems/hist.zip",
-     "size": 2713613,
-     "count": 57
+     "size": 2775224,
+     "count": 58
     }
    ]
   }
