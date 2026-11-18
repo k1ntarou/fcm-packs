@@ -11,9 +11,9 @@
   },
   "emblems": {
    "enabled": true,
-   "version": "2026-11-17.2",
-   "count": 800,
-   "size": 40175365,
+   "version": "2026-11-18",
+   "count": 809,
+   "size": 40631033,
    "parts": [
     {
      "url": "emblems/00.zip",
@@ -22,8 +22,8 @@
     },
     {
      "url": "emblems/01.zip",
-     "size": 1161127,
-     "count": 21
+     "size": 1284268,
+     "count": 24
     },
     {
      "url": "emblems/02.zip",
@@ -157,8 +157,8 @@
     },
     {
      "url": "emblems/28.zip",
-     "size": 624478,
-     "count": 15
+     "size": 755875,
+     "count": 18
     },
     {
      "url": "emblems/29.zip",
@@ -197,8 +197,8 @@
     },
     {
      "url": "emblems/36.zip",
-     "size": 675895,
-     "count": 11
+     "size": 740360,
+     "count": 12
     },
     {
      "url": "emblems/37.zip",
@@ -217,8 +217,8 @@
     },
     {
      "url": "emblems/40.zip",
-     "size": 718451,
-     "count": 15
+     "size": 763483,
+     "count": 16
     },
     {
      "url": "emblems/41.zip",
@@ -232,8 +232,8 @@
     },
     {
      "url": "emblems/43.zip",
-     "size": 853404,
-     "count": 12
+     "size": 945037,
+     "count": 13
     },
     {
      "url": "emblems/hist.zip",
