@@ -5,16 +5,16 @@
    "enabled": true,
    "version": "2026-11-19",
    "url": "names/names.json",
-   "size": 1921707,
-   "clubs": 759,
-   "players": 20327,
-   "coaches": 554
+   "size": 1973397,
+   "clubs": 795,
+   "players": 20901,
+   "coaches": 568
   },
   "names_retro": {
    "enabled": true,
    "version": "2026-11-19",
    "url": "names/retro.zip",
-   "size": 8167069,
+   "size": 8191317,
    "seasons": 28,
    "first": 1998,
    "last": 2025
