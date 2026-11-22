@@ -22,8 +22,8 @@
   "emblems": {
    "enabled": true,
    "version": "2026-11-22",
-   "count": 1391,
-   "size": 68582027,
+   "count": 1428,
+   "size": 70486224,
    "parts": [
     {
      "url": "emblems/00.zip",
@@ -282,8 +282,8 @@
     },
     {
      "url": "emblems/eu5.zip",
-     "size": 3243704,
-     "count": 66
+     "size": 5147901,
+     "count": 103
     }
    ]
   }
