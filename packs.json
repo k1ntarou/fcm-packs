@@ -3,27 +3,27 @@
  "packs": {
   "names": {
    "enabled": true,
-   "version": "2026-11-22.7",
+   "version": "2026-11-23.3",
    "url": "names/names.json",
-   "size": 2519317,
-   "clubs": 1339,
-   "players": 27863,
-   "coaches": 752
+   "size": 2654534,
+   "clubs": 1513,
+   "players": 29574,
+   "coaches": 781
   },
   "names_retro": {
    "enabled": true,
-   "version": "2026-11-22.7",
+   "version": "2026-11-23.3",
    "url": "names/retro.zip",
-   "size": 8627892,
+   "size": 8651539,
    "seasons": 28,
    "first": 1998,
    "last": 2025
   },
   "emblems": {
    "enabled": true,
-   "version": "2026-11-22.7",
-   "count": 1824,
-   "size": 89392380,
+   "version": "2026-11-23.3",
+   "count": 2015,
+   "size": 99182082,
    "parts": [
     {
      "url": "emblems/00.zip",
@@ -314,6 +314,21 @@
      "url": "emblems/sa2.zip",
      "size": 855137,
      "count": 29
+    },
+    {
+     "url": "emblems/sea4.zip",
+     "size": 3888435,
+     "count": 72
+    },
+    {
+     "url": "emblems/lower3.zip",
+     "size": 1435125,
+     "count": 30
+    },
+    {
+     "url": "emblems/eu5c.zip",
+     "size": 4466142,
+     "count": 89
     }
    ]
   }
