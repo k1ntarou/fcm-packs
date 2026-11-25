@@ -3,18 +3,18 @@
  "packs": {
   "names": {
    "enabled": true,
-   "version": "2026-11-25.1",
+   "version": "2026-11-25.3",
    "url": "names/names.json",
-   "size": 3154046,
+   "size": 3198141,
    "clubs": 1885,
-   "players": 35917,
+   "players": 36246,
    "coaches": 990
   },
   "names_retro": {
    "enabled": true,
-   "version": "2026-11-25.2",
+   "version": "2026-11-25.3",
    "url": "names/retro.zip",
-   "size": 9548135,
+   "size": 9835473,
    "seasons": 28,
    "first": 1998,
    "last": 2025
