@@ -3,11 +3,11 @@
  "packs": {
   "names": {
    "enabled": true,
-   "version": "2026-11-26.4",
+   "version": "2026-11-26.5",
    "url": "names/names.json",
-   "size": 4296830,
-   "clubs": 1961,
-   "players": 45938,
+   "size": 4647795,
+   "clubs": 1962,
+   "players": 48791,
    "coaches": 990
   },
   "names_retro": {
