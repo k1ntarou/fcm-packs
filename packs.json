@@ -3,9 +3,9 @@
  "packs": {
   "names": {
    "enabled": true,
-   "version": "2026-11-26.1",
+   "version": "2026-11-26.2",
    "url": "names/names.json",
-   "size": 3222024,
+   "size": 3253996,
    "clubs": 1885,
    "players": 36350,
    "coaches": 990
